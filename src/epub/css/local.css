@@ -47,6 +47,10 @@ section[epub|type~="epigraph"] > *{
 		min-height: calc(98vh - 3em);
 		padding-top: 3em;
 	}
+
+	section[epub|type~="epigraph"] > *{
+		margin: 0;
+	}
 }
 /* End full-page epigraphs */
 
