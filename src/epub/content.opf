@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-09-28T19:22:22Z</dc:date>
+		<meta property="dcterms:modified">2026-09-28T19:22:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -34,17 +34,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108197</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:abstract">Caught between the empires of Napoleonic France and Tsarist Russia, those in Dantzig struggle to survive a nightmare of occupation, subversion, siege, starvation, and destruction, but within this the unlikeliest of friendships offers salvation to two very different people.</meta>
+		<meta property="schema:abstract">Caught between the empires of Napoleonic France and Tsarist Russia, those in Danzig struggle to survive a nightmare of occupation and destruction, but within this the unlikeliest of friendships offers salvation to two very different people.</meta>
 		<dc:description>
-			&lt;p&gt;One of the most popular and acclaimed novels from &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman&lt;/a&gt;, one of the most popular and acclaimed romantic authors of the Nineteenth and early Twentieth Centuries, &lt;i&gt;Barlasch of the Guard&lt;/i&gt; explores the ideals and imperfections of people—great and small alike—under the incomprehensible strains of life under seige, beset by the destructive forces of both man and nature. &lt;i&gt;Barlasch&lt;/i&gt; shares with other Merriman novels the author’s intricate plotting and attention to detail (informed by his own extensive travels) but differs from many of those works in its use of often brutal historic and military details in service of the underlying romanticism. Ultimately though, this is a very human drama focused not on the movements of armies but on the changes wrought in their wake on soldiers and civilians caught up in epic events.&lt;/p&gt;
-			&lt;p&gt;In &lt;i&gt;Barlasch&lt;/i&gt;, the events are those of the months before, during, and after the Grande Armée’s invasion of and catastrophic retreat from Russia in 1812, during which approximately one million soldiers and civilians died, and a defeat which marked the end of Napoleon’s campaign to conquer Europe and the start of his downfall to abdication and exile in 1814. The focus of the story is the unlikely friendship between Désirée Sebastian, a poor but cultured young woman raised in Danzig (modern-day Gdansk, Poland), a strategically important “free city” occupied by Napoleon’s army, and “Papa” Barlasch, an earthy, low-born, veteran sergeant in Napoleon’s Old Guard, who finds himself quartered in the Sebastian home on Désirée’s wedding day. They are surrounded by vividly drawn supporting characters—Désirée’s new husband, a French officer, his cousin, a captain who sails under the English flag, and his patron, an officer in Napoleon’s secret service; her father, an enigmatic French expatriate, and her sister, whose calculating nature contrasts with Désirée’s free-spirited outlook.&lt;/p&gt;
-			&lt;p&gt;As Merriman writes, “[B]attles and revolutions and historical events of any sort are the jagged instruments with which Fate rough-hews our lives. …” In &lt;i&gt;Barlash of the Guard&lt;/i&gt;, those events will draw you in, but it will be the lives which you will remember long after you finish the final page.&lt;/p&gt;
+			&lt;p&gt;One of &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman’s&lt;/a&gt; most popular and acclaimed novels, &lt;i&gt;Barlasch of the Guard&lt;/i&gt; explores the ideals and imperfections of people, great and small alike, under the incomprehensible strains of life under siege, beset by the destructive forces of both man and nature.&lt;/p&gt;
+			&lt;p&gt;The events are those of the months before, during, and after the Grande Armée’s 1812 invasion of and catastrophic retreat from Russia, during which approximately one million soldiers and civilians died, and which marked the end of Napoleon’s campaign to conquer Europe and the beginning of his eventual downfall. The focus of the story is the unlikely friendship between Désirée Sebastian, a poor but cultured young woman raised in Danzig (modern-day Gdansk, Poland), a strategically important “free city” occupied by Napoleon’s army, and “Papa” Barlasch, an earthy, low-born, veteran sergeant in Napoleon’s Old Guard, who finds himself quartered in the Sebastian home on Désirée’s wedding day. They’re surrounded by a vividly drawn supporting characters: Désirée’s new husband, a French officer; his cousin, a captain who sails under the English flag; his patron, an officer in Napoleon’s secret service; her father, an enigmatic French expatriate; and her sister, whose calculating nature contrasts with Désirée’s free-spirited outlook.&lt;/p&gt;
+			&lt;i&gt;Barlasch&lt;/i&gt; shares with other Merriman novels his intricate plotting and attention to detail informed by his own extensive travels, but differs from some of his other works in its use of often brutal historic and military detail in service of the underlying romanticism. Ultimately though, this is a very human drama focused not on the movements of armies, but on the changes wrought in their wake on soldiers and civilians caught up in epic events.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8158</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007701458</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">75217</meta>
+		<meta property="schema:educationalLevel">73.17</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/henry-seton-merriman_barlasch-of-the-guard" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -75,6 +75,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
